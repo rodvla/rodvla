@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="rodvla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodvla" alt="rodvla" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla" alt="rodvla" /></p>
 
 - 🔭 My last project [Henryapp](https://github.com/Jasper13006/HenryApp)
 
