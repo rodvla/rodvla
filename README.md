@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rvlae@hotmail.com**
 
-<h3 align="left">Connect with me:<a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
+<h3 align="left"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
