@@ -45,6 +45,6 @@
 </p>
 <hr/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodvla&show_icons=true&locale=en&layout=compact" alt="rodvla" />
+<p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodvla&show_icons=true&locale=en" alt="rodvla" />
 </p>
