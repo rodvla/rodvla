@@ -5,11 +5,9 @@
 <h3 align="center">My trophies :</h3>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla&row=1&column=3" alt="rodvla" /></p>
 <hr/>
-<p align="center"> - 🔭 My last project [Henryapp](https://github.com/Jasper13006/HenryApp) </p>
-
-<p align="center"> - 🔭 And the previous project: [E-commerce](https://github.com/rodvla/ecommerce) </p>
-
-<p align="center"> - 📫 How to reach me **rvlae@hotmail.com** </p>
+- 🔭 My last project [Henryapp](https://github.com/Jasper13006/HenryApp) 
+- 🔭 And the previous project: [E-commerce](https://github.com/rodvla/ecommerce) 
+- 📫 How to reach me **rvlae@hotmail.com** 
 <hr/>
 
 <h3 align="center"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
