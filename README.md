@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Vlaeminck</h1>
 <h3 align="center">A passionate Fullstack developer from Uruguay</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="rodvla" /> </p>
-<hr/>
 
 <h3 align="left">My trophies :</h3>
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla&row=1&column=3" alt="rodvla" /></p>
+<hr/>
 
 - 🔭 My last project [Henryapp](https://github.com/Jasper13006/HenryApp)
 
 - 🔭 And the previous project: [E-commerce](https://github.com/rodvla/ecommerce)
 
 - 📫 How to reach me **rvlae@hotmail.com**
+<hr/>
 
 <h3 align="left"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
+<hr/>
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
@@ -37,6 +39,7 @@
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>  
   <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
 </p>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodvla&show_icons=true&locale=en&layout=compact" alt="rodvla" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodvla&show_icons=true&locale=en" alt="rodvla" /></p>
