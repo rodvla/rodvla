@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Fullstack developer from Uruguay</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="rodvla" /> </p>
 <hr/>
-<h3 align="left">My trophies :</h3>
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla&row=1&column=3" alt="rodvla" /></p>
+<h3 align="center">My trophies :</h3>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla&row=1&column=3" alt="rodvla" /></p>
 <hr/>
 
 - 🔭 My last project [Henryapp](https://github.com/Jasper13006/HenryApp)
@@ -13,7 +13,7 @@
 - 📫 How to reach me **rvlae@hotmail.com**
 <hr/>
 
-<h3 align="left"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
+<h3 align="center"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
 <hr/>
 
 <h3 align="left">Languages and Tools :</h3>
