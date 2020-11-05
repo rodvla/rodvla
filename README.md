@@ -6,9 +6,9 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rodvla&row=1&column=3" alt="rodvla" /></p>
 <hr/>
 
-                       - 🔭 My last project: [Henryapp](https://github.com/Jasper13006/HenryApp)
+  - 🔭 My last project: [Henryapp](https://github.com/Jasper13006/HenryApp)
 
-                       - 🔭 And the previous project: [E-commerce](https://github.com/rodvla/ecommerce)
+  - 🔭 And the previous project: [E-commerce](https://github.com/rodvla/ecommerce)
 
   - 📫 How to reach me: **rvlae@hotmail.com**
 
