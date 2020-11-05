@@ -20,8 +20,8 @@
 <h3 align="center"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
 <hr/>
 
-<h3 align="left">Languages and Tools :</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools :</h3>
+<p align="center"> 
   <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -45,5 +45,6 @@
 </p>
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodvla&show_icons=true&locale=en&layout=compact" alt="rodvla" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodvla&show_icons=true&locale=en" alt="rodvla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodvla&show_icons=true&locale=en&layout=compact" alt="rodvla" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodvla&show_icons=true&locale=en" alt="rodvla" />
+</p>
