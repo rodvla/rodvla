@@ -7,11 +7,11 @@
 <hr/>
 <div align="center">
 
-   🔭 My last project: [**Henryapp**](https://github.com/Jasper13006/HenryApp)
+   🔭 My last project: [**Java-Spring**](https://github.com/rodvla/Java-Spring-HenryNews)
 
-   🔭 And the previous project: [**E-commerce**](https://github.com/rodvla/ecommerce)
+   🔭 And the previous project: [**Henryapp**](https://github.com/Jasper13006/HenryApp)
 
-   📫 How to reach me: **rvlae@hotmail.com**
+   📫 How to reach me: **rvlaeminck@gmail.com**
   
 </div>
 
