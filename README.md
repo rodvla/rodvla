@@ -7,9 +7,9 @@
 <hr/>
 <div align="center">
 
-   🔭 My last project: [**Java-Spring**](https://github.com/rodvla/Java-Spring-HenryNews)
+   🔭 My last project: [**HenryElectric**](https://github.com/rodvla/J-HenryElectric)
 
-   🔭 And the previous project: [**Henryapp**](https://github.com/Jasper13006/HenryApp)
+   🔭 And the previous project: [**Java-Spring**](https://github.com/rodvla/Java-Spring-HenryNews)
 
    📫 How to reach me: **rvlaeminck@gmail.com**
   
