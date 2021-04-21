@@ -17,7 +17,7 @@
 
 <hr/>
 
-<h3 align="center"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
+<h3 align="center"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck" target="blank"><img align="center" src="https://worldvectorlogo.com/es/logo/linkedin-icon-2" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
 <hr/>
 
 <h3 align="center">Languages and Tools :</h3>
