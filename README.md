@@ -7,7 +7,7 @@
 <hr/>
 <div align="center">
 
-   🔭 My last project: [**HenryElectric**](https://github.com/rodvla/J-HenryElectric)
+   🔭 My last project: [**HenryElectric**](https://github.com/rodvla/Java-Spring-HenryElectric)
 
    🔭 And the previous project: [**Java-Spring**](https://github.com/rodvla/Java-Spring-HenryNews)
 
