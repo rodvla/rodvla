@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Rodrigo Vlaeminck</h3>
-<h3 align="center">A passionate Fullstack developer from Uruguay</h3>
+<h3 align="center">A passionate Fullstack Engineer from Uruguay</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rodvla&label=Profile%20views&color=0e75b6&style=flat" alt="rodvla" /> </p>
 <hr/>
 <h3 align="center">My trophies :</h3>
@@ -7,9 +7,9 @@
 <hr/>
 <div align="center">
 
-   🔭 My last project: [**HenryElectric**](https://github.com/rodvla/Java-Spring-HenryElectric)
+   🔭 My last project: [**Java-Spring-HenryElectric**](https://github.com/rodvla/Java-Spring-HenryElectric)
 
-   🔭 And the previous project: [**Java-Spring**](https://github.com/rodvla/Java-Spring-HenryNews)
+   🔭 And the previous project: [**Java-Spring-HenryNews**](https://github.com/rodvla/Java-Spring-HenryNews)
 
    📫 How to reach me: **rvlaeminck@gmail.com**
   
