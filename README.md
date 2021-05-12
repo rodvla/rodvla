@@ -17,7 +17,14 @@
 
 <hr/>
 
-<h3 align="center"> Connect with me : <a href="https://linkedin.com/in/rodrigo-vlaeminck"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rodrigo-vlaeminck" height="30" width="40" /></a></h3>
+<h3 align="center"> Connect with me : 
+   <a href="https://linkedin.com/in/rodrigo-vlaeminck">
+       <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rodrigo-vlaeminck" height="30" width="40" />
+   </a>
+   <a href="https://gitlab.com/rodvla">
+       <img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="rodrigo-vlaeminck" height="30" width="40" />
+   </a>
+</h3>
 <hr/>
 
 <h3 align="center">Languages and Tools :</h3>
