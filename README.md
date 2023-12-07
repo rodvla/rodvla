@@ -17,10 +17,7 @@
 
 <hr/>
 
-<h3 align="center"> Connect with me : 
-   <a href="https://linkedin.com/in/rod-vlaeminck">
-       <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="rod-vlaeminck" height="30" width="40" />
-   </a>
+<h3 align="center"> Connect with me :
    <a href="https://gitlab.com/rodvla">
        <img align="center" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="rod-vlaeminck" height="30" width="40" />
    </a>
